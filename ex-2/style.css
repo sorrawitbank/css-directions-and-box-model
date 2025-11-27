@@ -1,1 +1,32 @@
-/* Start coding here */
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+
+.content {
+    text-align: center;
+    border: 16px solid;
+}
+
+.content-outer {
+    border-color: lightgrey;
+    height: 100vh;
+
+}
+
+.content-middle {
+    border-color: black;
+    height: 100%;
+}
+
+.content-inner{
+    background-color: khaki;
+    border-color: crimson;
+    border-width: 24 px;
+    height: 100%;  
+}
+
+.title{
+    font-size: 72px;
+    padding: 30px;
+}
