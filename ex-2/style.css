@@ -1,1 +1,31 @@
-/* Start coding here */
+* {
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  
+  .box {
+    text-align: center;
+    border: 16px solid;
+  }
+  
+  .box-outer {
+    border-color: lightgrey;
+    height: 100vh;
+  }
+  
+  .box-middle {
+    border-color: black;
+    height: 100%;
+  }
+  
+  .box-inner {
+    background-color: khaki;
+    border-color: crimson;
+    border-width: 24px;
+    height: 100%;
+  }
+  
+  .title {
+    font-size: 72px;
+    padding: 30px;
+  }
