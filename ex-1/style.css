@@ -1,1 +1,33 @@
-/* Start coding here */
+* {
+    box-sizing: border-box;
+    margin: 0;
+   
+    }
+
+   header {
+     padding: 16px 8px 16px 32px;
+     margin-bottom: 1px;
+     color: #183B56;
+     background-color: #92AABD;
+   }
+   
+   img {
+    width: 50%;
+    height: auto; 
+    display: block ;
+    margin: 10px 0px;
+   }
+
+   .section{
+    width: 536px;
+    padding: 16px;
+    margin: 32px ;
+    background-color: #E4E9ED;
+    border: 2px solid #183B56; 
+    
+   }
+
+   .blog-title 
+   .blog-detail {
+    color: #183B56;
+   }
