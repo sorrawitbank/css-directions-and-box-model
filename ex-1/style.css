@@ -1,1 +1,28 @@
-/* Start coding here */
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  padding: 16px 8px 16px 32px;
+  margin-bottom: 1px;
+  color: #183b56;
+  background-color: #92aabd;
+}
+
+.blog-image {
+  width: 60%;
+  margin: 10px 0px;
+}
+
+.section {
+  width: 536px;
+  padding: 16px;
+  margin: 32px;
+  background-color: #e4e9ed;
+  border: #183b56 solid 3px;
+}
+
+.blog-text {
+  color: #183b56;
+}
