@@ -1,1 +1,25 @@
-/* Start coding here */
+.title-blog{color: #183B56;
+    background-color: #92AABD;
+    padding: 20px;
+    height: inherit;}
+
+.information-box{
+    background-color: #E4E9ED;
+    padding: 20px;
+    width: 550px;
+    margin: 10px 0px;
+    border: 10px solid #183B56;
+    flex: 1 1 45%;
+}
+
+.blog-image{
+    padding: 2px;
+    width: 60%;
+    
+}
+
+.blog-container {
+    flex-wrap: wrap; 
+    justify-content: center; 
+    padding: 20px; 
+}
